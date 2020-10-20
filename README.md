@@ -1,5 +1,5 @@
 # Solar-Tracker-Arduino
-watch this video to know more :
+watch this video to know more : https://youtu.be/f_97kHJky4I
 3 folders are there 
 1. 3D Printing : It contains 3d printing parts related to project .
 2. CODING : it contains all the arduino coding related to this project.
